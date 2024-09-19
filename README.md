@@ -1,9 +1,9 @@
 ## Hi there, I'm Faiq 👋
 
-### An aspiring back-end "magician" from Indonesia 🪄
+### An aspiring back-end "magician" 🪄
 
 - 🌱 I’m currently learning **Laravel and Go**
-- 📫 How to reach me **[faiq@najib.id](mailto:faiq@najib.id)**
+- 📫 How to reach me **[faiq@najib.id](mailto:faiq@najib.id)** or [t.me/fanajib5](https://t.me/fanajib5)
 - 📄 Know about my experiences [https://s.id/13yWB](https://s.id/13yWB)
 
 ### Languages and Tools:

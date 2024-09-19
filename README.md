@@ -13,9 +13,6 @@
 #### Suprott me on:
 <p><a href="https://www.buymeacoffee.com/fanajib5"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fanajib5" /></a></p><br><br>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fanajib5&show_icons=true&locale=en" alt="fanajib5" /></p>
-
 <!--
 **fanajib5/fanajib5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
